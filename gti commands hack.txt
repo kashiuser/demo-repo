@@ -1,0 +1,2 @@
+1) To push files from local to remote repo without any password use this command
+   ( git remote set-url origin https://authentication key@gitgubrepourl withot https )
